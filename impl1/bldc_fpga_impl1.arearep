@@ -1,0 +1,25 @@
+----------------------------------------------------------------------
+Report for cell top.TECH
+Register bits:  25 of 7485 (0.334%)
+I/O cells:      6
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                              CCU2D         8          100.0
+                            FD1S3AX         5          100.0
+                            FD1S3IX        20          100.0
+                                GSR         1          100.0
+                               LUT4        13          100.0
+                                 OB         6          100.0
+                               OSCH         1          100.0
+SUB MODULES
+                           bldc_drv         1
+                              TOTAL        55
+----------------------------------------------------------------------
+Report for cell bldc_drv.v1
+Instance Path : i_BLDCDrv
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                            FD1S3AX         4           80.0
+                            FD1S3IX         5           25.0
+                               LUT4         8           61.5
+                              TOTAL        17

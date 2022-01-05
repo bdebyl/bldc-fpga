@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userSetting name="/home/bastian/src/lattice/bldc-fpga/promote.xml" version="Diamond (64-bit) 3.12.0.240.2" date="Mon Jan  3 02:33:54 2022" vendor="Lattice Semiconductor Corporation" >
+  <msg mid="35921504" type="Info" />
+  <msg mid="35921033" type="Error" />
+  <msg mid="35931002" type="Warning" />
+  <msg mid="35921205" type="Warning" />
+  <msg mid="35921278" type="Error" />
+</userSetting>

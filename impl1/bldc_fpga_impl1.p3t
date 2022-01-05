@@ -1,0 +1,5 @@
+-rem
+-distrce
+-log "bldc_fpga_impl1.log"
+-o "bldc_fpga_impl1.csv"
+-pr "bldc_fpga_impl1.prf"

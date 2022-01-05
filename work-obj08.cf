@@ -1,0 +1,7 @@
+v 4
+file . "bldc_drvTb.vhd" "bffeaab72a534f883c03846c85e14e5935e5a279" "20220103042255.654":
+  entity bldc_drvtb at 1( 0) + 0 on 201;
+  architecture sim of bldc_drvtb at 6( 81) + 0 on 202;
+file . "bldc_drv.vhd" "a0699aa5074afc79e841820bc4e81eeafd410eb3" "20220103042255.580":
+  entity bldc_drv at 1( 0) + 0 on 199;
+  architecture rtl of bldc_drv at 10( 171) + 0 on 200;

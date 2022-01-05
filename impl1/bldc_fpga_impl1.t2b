@@ -1,0 +1,5 @@
+
+
+-g RamCfg:Reset
+
+-path "/home/bastian/src/lattice/bldc-fpga"  

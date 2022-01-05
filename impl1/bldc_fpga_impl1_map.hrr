@@ -1,0 +1,21 @@
+---------------------------------------------------
+Report for cell top
+   Instance path: top
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	      16.00        100.0
+                                  LUT4	      12.00        100.0
+                                 IOBUF	          6        100.0
+                                PFUREG	         25        100.0
+                                RIPPLE	          8        100.0
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                              bldc_drv	          1        38.5
+---------------------------------------------------
+Report for cell bldc_drv
+   Instance path: top/i_BLDCDrv
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       6.17        38.5
+                                  LUT4	       7.00        58.3
+                                PFUREG	          9        36.0

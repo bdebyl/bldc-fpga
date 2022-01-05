@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliMessageLog>
+    <Task name="Lattice_Synthesis">
+        <Message>
+            <ID>35002000</ID>
+            <Severity>Info</Severity>
+        </Message>
+        <Message>
+            <ID>35001781</ID>
+            <Severity>Info</Severity>
+        </Message>
+        <Message>
+            <ID>35921504</ID>
+            <Severity>Info</Severity>
+            <Dynamic></Dynamic>
+            <Dynamic>/home/bastian/src/lattice/bldc-fpga/impl1</Dynamic>
+        </Message>
+        <Message>
+            <ID>35921012</ID>
+            <Severity>Info</Severity>
+            <Dynamic>/home/bastian/src/lattice/bldc-fpga/bldc_drv.vhd(4): </Dynamic>
+            <Dynamic>bldc_drv</Dynamic>
+            <Navigation>/home/bastian/src/lattice/bldc-fpga/bldc_drv.vhd</Navigation>
+            <Navigation>4</Navigation>
+        </Message>
+        <Message>
+            <ID>35921010</ID>
+            <Severity>Info</Severity>
+            <Dynamic>/home/bastian/src/lattice/bldc-fpga/bldc_drv.vhd(10): </Dynamic>
+            <Dynamic>rtl</Dynamic>
+            <Navigation>/home/bastian/src/lattice/bldc-fpga/bldc_drv.vhd</Navigation>
+            <Navigation>10</Navigation>
+        </Message>
+        <Message>
+            <ID>35921012</ID>
+            <Severity>Info</Severity>
+            <Dynamic>/home/bastian/src/lattice/bldc-fpga/top.vhd(8): </Dynamic>
+            <Dynamic>top</Dynamic>
+            <Navigation>/home/bastian/src/lattice/bldc-fpga/top.vhd</Navigation>
+            <Navigation>8</Navigation>
+        </Message>
+        <Message>
+            <ID>35921010</ID>
+            <Severity>Info</Severity>
+            <Dynamic>/home/bastian/src/lattice/bldc-fpga/top.vhd(13): </Dynamic>
+            <Dynamic>rtl</Dynamic>
+            <Navigation>/home/bastian/src/lattice/bldc-fpga/top.vhd</Navigation>
+            <Navigation>13</Navigation>
+        </Message>
+        <Message>
+            <ID>35921205</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>/home/bastian/src/lattice/bldc-fpga/top.vhd(12): </Dynamic>
+            <Dynamic>top</Dynamic>
+            <Dynamic>rtl</Dynamic>
+            <Navigation>/home/bastian/src/lattice/bldc-fpga/top.vhd</Navigation>
+            <Navigation>12</Navigation>
+        </Message>
+        <Message>
+            <ID>35001611</ID>
+            <Severity>Warning</Severity>
+        </Message>
+    </Task>
+    <Task name="PAR">
+        <Message>
+            <ID>61061045</ID>
+            <Severity>Warning</Severity>
+        </Message>
+    </Task>
+</BaliMessageLog>
